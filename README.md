@@ -35,13 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-¶ A Letter sent by I. B. Gentleman vnto his very frende Maystet R. C. Esquire, vvherin is conteined 
+A letter sent by I.B. Gentleman vnto his very frende Maystet [sic] R.C. Esquire vvherin is conteined
 #####Body#####
-SUche doubtes and exceptions frende K. C. as I haue heard alleged & put for the to vnhable that ente
-1. The offer and order giuen forthe by Sir Thomas Smyth Knighte, and Thomas Smyth his sonne, vnto suche as he willing to accompanie the sayd Thomas Smyth the sonne, in his voyage for the inhabiting some partes of the North of Irelande.
-
+A letter sent by I.B. Gentleman vnto his very frende Maystet [sic] R.C. Esquire vvherin is conteined
 #####Back#####
-¶ Imprinted at London by Henry Binneman for Anthon••••son, dwelling in Paules Churchyard at the sign
+A letter sent by I.B. Gentleman vnto his very frende Maystet [sic] R.C. Esquire vvherin is conteined
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
@@ -75,47 +73,40 @@ There are 25 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|10||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|5||
-|32.|__textClass__|1||
-|33.|__title__|3||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|10||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|5||
+|28.|__textClass__|1||
+|29.|__title__|3||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
 
 |No|element name|occ|attributes|
 |---|---|---|---|
-|1.|__back__|1||
-|2.|__body__|1||
-|3.|__desc__|25||
-|4.|__div__|4| @__type__ (4) : title_page (1), part (2), colophon (1)|
-|5.|__front__|1||
-|6.|__g__|413| @__ref__ (413) : char:EOLhyphen (340), char:cmbAbbrStroke (69), char:EOLunhyphen (2), char:punc (2)|
-|7.|__gap__|25| @__reason__ (25) : illegible (23), illegible: missing (2)  •  @__extent__ (25) : 1 word (12), 1 letter (10), 2 letters (2), 3 letters (1)|
-|8.|__head__|1||
-|9.|__hi__|154| @__rend__ (16) : sup (16)|
-|10.|__p__|70||
-|11.|__pb__|62| @__facs__ (62) : tcp:477:1 (2), tcp:477:2 (2), tcp:477:3 (2), tcp:477:4 (2), tcp:477:5 (2), tcp:477:6 (2), tcp:477:7 (2), tcp:477:8 (2), tcp:477:9 (2), tcp:477:10 (2), tcp:477:11 (2), tcp:477:12 (2), tcp:477:13 (2), tcp:477:14 (2), tcp:477:15 (2), tcp:477:16 (2), tcp:477:17 (2), tcp:477:18 (2), tcp:477:19 (2), tcp:477:20 (2), tcp:477:21 (2), tcp:477:22 (2), tcp:477:23 (2), tcp:477:24 (2), tcp:477:25 (2), tcp:477:26 (2), tcp:477:27 (2), tcp:477:28 (2), tcp:477:29 (2), tcp:477:30 (2), tcp:477:31 (2)|
-|12.|__seg__|2| @__rend__ (2) : decorInit (2)|
+|1.|__desc__|25||
+|2.|__div__|4| @__type__ (4) : title_page (1), part (2), colophon (1)|
+|3.|__g__|413| @__ref__ (413) : char:EOLhyphen (340), char:cmbAbbrStroke (69), char:EOLunhyphen (2), char:punc (2)|
+|4.|__gap__|25| @__reason__ (25) : illegible (23), illegible: missing (2)  •  @__extent__ (25) : 1 word (12), 1 letter (10), 2 letters (2), 3 letters (1)|
+|5.|__head__|1||
+|6.|__hi__|154| @__rend__ (16) : sup (16)|
+|7.|__p__|70||
+|8.|__pb__|62| @__facs__ (62) : tcp:477:1 (2), tcp:477:2 (2), tcp:477:3 (2), tcp:477:4 (2), tcp:477:5 (2), tcp:477:6 (2), tcp:477:7 (2), tcp:477:8 (2), tcp:477:9 (2), tcp:477:10 (2), tcp:477:11 (2), tcp:477:12 (2), tcp:477:13 (2), tcp:477:14 (2), tcp:477:15 (2), tcp:477:16 (2), tcp:477:17 (2), tcp:477:18 (2), tcp:477:19 (2), tcp:477:20 (2), tcp:477:21 (2), tcp:477:22 (2), tcp:477:23 (2), tcp:477:24 (2), tcp:477:25 (2), tcp:477:26 (2), tcp:477:27 (2), tcp:477:28 (2), tcp:477:29 (2), tcp:477:30 (2), tcp:477:31 (2)|
+|9.|__seg__|2| @__rend__ (2) : decorInit (2)|
