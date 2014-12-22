@@ -35,11 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A letter sent by I.B. Gentleman vnto his very frende Maystet [sic] R.C. Esquire vvherin is conteined
+
 #####Body#####
-A letter sent by I.B. Gentleman vnto his very frende Maystet [sic] R.C. Esquire vvherin is conteined
+SUche doubtes and exceptions frende K. C. as I haue heard alleged & put for the to vnhable that ente
+1. The offer and order giuen forthe by Sir Thomas Smyth Knighte, and Thomas Smyth his sonne, vnto suche as he willing to accompanie the sayd Thomas Smyth the sonne, in his voyage for the inhabiting some partes of the North of Irelande.
+
 #####Back#####
-A letter sent by I.B. Gentleman vnto his very frende Maystet [sic] R.C. Esquire vvherin is conteined
+¶ Imprinted at London by Henry Binneman for Anthon••••son, dwelling in Paules Churchyard at the sign
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
